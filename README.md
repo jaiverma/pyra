@@ -1,6 +1,6 @@
 pyra
 =========
-**www.jaiverma.com/projects/pyra**
+**http://www.jaiverma.com/blog/pyra**
 
 pyra stands for **Python Remote Access**.
 
@@ -30,4 +30,4 @@ Run **main.py** from **server** directory to start the server. The server listen
 
 Run **main.py** from **client** directory to start the client. (Make sure you edit the server address to match the IP address of your server computer)
 
-Have a look at my blog www.jaiverma.com/projects/pyra to see detailed usage instructions and all features.
+Have a look at my blog http://www.jaiverma.com/blog/pyra to see detailed usage instructions and all features.

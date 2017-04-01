@@ -1,0 +1,7 @@
+user:pass
+hello:world
+admin:admin
+root:root
+root:toor
+abc:abc
+root:alpine
