@@ -21,7 +21,6 @@ The client can run on any system which supports Python which include **Windows**
 >- pyscreenshot (for screen shots)
 
 >**Server Requirements:**
->- textwrap
 >- texttable
 
 ------------
